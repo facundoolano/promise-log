@@ -38,7 +38,7 @@ myPromise
 
 Hence, I published the `promise-log` module to better support my laziness.
 
-# Usage
+## Usage
 
 Install with npm:
 
