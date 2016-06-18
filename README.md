@@ -31,7 +31,7 @@ Becomes:
 ```js
 myPromise
   .then(doStuff)
-  .then(doNotReallyWorkingStuff)
+  .then(someWeirdProcessingStuff)
   .log('partial value is:')
   .then(doMoreStuff);
 ```
