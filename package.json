@@ -1,6 +1,6 @@
 {
   "name": "promise-log",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "shortcut for console.loggin' your promises",
   "main": "index.js",
   "scripts": {
