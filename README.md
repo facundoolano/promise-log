@@ -49,7 +49,7 @@ npm install promise-log
 And require anywhere in your project, passing the promise prototype you want to extend
 (defaults to native `Promise`):
 
-```
+```js
 require('promise-log')(Promise);
 ```
 
